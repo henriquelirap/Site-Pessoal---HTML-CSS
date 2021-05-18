@@ -18,6 +18,9 @@ html{
     background: #23142b;
     
 }
+ul{
+    list-style: none;
+}
 .main{
     margin: 0;
     padding: 0;
